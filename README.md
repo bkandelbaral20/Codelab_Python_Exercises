@@ -1,12 +1,14 @@
 # Codelab_Python_Exercises
 
 a. Python Dictionaries
-- Dictionaries initilaization
-    a = {
-      "hello": "world",
-      "name" : "Binjita Kandel Baral",
-      "age" : 100
+
+- Dictionary initilaization
+    # a = {
+       "hello": "world",
+       "name" : "Binjita Kandel Baral",
+       "age" : 100
        }
+       
 - Dictionaries remove and add
  
 * d contains a dictionary and that x has been defined, delete the dictonary entry who key is equal to the value assigned to x.
